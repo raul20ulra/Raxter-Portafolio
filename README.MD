@@ -1,4 +1,5 @@
-Portafolio implementando Doom 
-*JavaScript
-*HTML
-*CSS
+portfolio implementing:
+
+-HTML
+
+-CSS
